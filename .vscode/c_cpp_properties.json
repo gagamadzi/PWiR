@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/msys32/usr/lib/gcc/i686-pc-msys/9.3.0/include/c++/tr1",
+                "C:/msys32/usr/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\msys32\\usr\\bin\\g++.exe",
+            "cStandard": "c11",
+            "intelliSenseMode": "gcc-x86",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
